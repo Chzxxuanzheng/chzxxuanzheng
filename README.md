@@ -11,14 +11,7 @@
 ---
 
 ### My skills
-<img align="left" width="40%" src="https://skillicons.dev/icons?i=python,linux,vue,vite,ts,js&perline=3" alt="skills" style="border-radius: 5px" />
-<picture>
-  <source width="48%" media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chzxxuanzheng&layout=compact&theme=tokyonight&hide_border=true">
-  <source width="48%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chzxxuanzheng&layout=compact&hide_border=true">
-  <img alt="languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chzxxuanzheng&layout=compact&hide_border=true">
-</picture>
+<img width="100%" src="https://skillicons.dev/icons?i=python,linux,vue,vite,ts,js,nuxt,vercel,fastapi,cloudflare,vscode,git,github,arch&perline=7" alt="skills" style="border-radius: 5px" />
 
 <br clear="all">
 
@@ -32,9 +25,9 @@
 </picture>
 <picture>
   <source width="40%" media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=chzxxuanzheng&theme=tokyonight&hide_border=true">
+      srcset="https://stars-xyamzw.vercel.app/api?username=chzxxuanzheng&theme=tokyonight&hide_border=true">
   <source width="40%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api?username=chzxxuanzheng&hide_border=true">
+      srcset="https://stars-xyamzw.vercel.app/api?username=chzxxuanzheng&hide_border=true">
   <img alt="languages" width="40%" src="https://github-readme-stats.vercel.app/api?username=chzxxuanzheng&theme=tokyonight&hide_border=true">
 </picture>
 
